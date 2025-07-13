@@ -10,8 +10,8 @@ nav_order:
   Your browser does not support the video tag.
 </video>
 
-<b>I Could Use a Boost</b>
+<b>No Ordinary Girl</b>
 
-From the H2O: Just Add Water OST
+From H2O: Just Add Water OST
 
 Written by Shelley Rosenberg

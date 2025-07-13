@@ -113,13 +113,13 @@ blockquote {
 }
 
 .fa-external-link-alt {
-  margin-left: 3px;
-  font-size: 0.85em;
+  margin-left: 2px;
+  font-size: 0.75em;
+  vertical-align: 0.12em;
 }
 
 .date {
   color: grey;
-  margin-top: 21px;
   font-size: 14px;
 }
 
@@ -131,4 +131,9 @@ video {
 
 p {
   margin: 0;
+  margin-bottom: 2px;
+}
+
+.space {
+  margin-bottom: 18px;
 }

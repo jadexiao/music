@@ -3,6 +3,10 @@ title: Tablature
 nav_order: 2
 ---
 
+Most of these are my original arrangements for low G ukulele.
+
+<p class="space"></p>
+
 <a href="{{site.baseurl}}/tablature/Arirang.pdf" target="_blank">아리랑 (Arirang)</a>, a Korean folk song
 
 <a href="{{site.baseurl}}/tablature/Onara.pdf" target="_blank">오나라 (Onara)</a> from 대장금 (Dae Jang Geum) OST
@@ -43,8 +47,12 @@ nav_order: 2
 
 <a href="{{site.baseurl}}/tablature/You_and_I.pdf" target="_blank">You and I</a> by Park Bom
 
+<p class="space"></p>
+
 And some piano too.
 
+<p class="space"></p>
+ 
 <a href="{{site.baseurl}}/tablature/piano_If_You_Love_Me_For_Me.pdf" target="_blank">If You Love Me For Me</a> from Barbie as the Princess and the Pauper OST <a href="https://www.youtube.com/watch?v=SMe10v_rRbo" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
 <a href="{{site.baseurl}}/tablature/piano_Inferno.pdf" target="_blank">Inferno</a> from Promare OST <a href="https://youtu.be/-eRd8akV9Mk?feature=shared&t=107" target="_blank"><i class="fas fa-external-link-alt"></i></a>
