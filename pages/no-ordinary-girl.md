@@ -1,14 +1,15 @@
 ---
 title: No Ordinary Girl
+parent: Videos
 nav_order:
+permalink: /videos/no-ordinary-girl
 ---
-
-<p class="date">March 16, 2025</p>
 
 <video controls width="100%">
   <source src="{{site.baseurl}}/video/No Ordinary Girl.mov" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
+
+<p class="date">March 16, 2025</p>
 
 <b>No Ordinary Girl</b>
 

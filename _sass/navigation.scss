@@ -11,7 +11,7 @@
     position: relative;
     margin: 0;
 
-    @include fs-4;
+    @include fs-3;
 
     @include mq(md) {
       @include fs-3;
