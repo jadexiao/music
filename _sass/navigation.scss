@@ -11,11 +11,7 @@
     position: relative;
     margin: 0;
 
-    @include fs-3;
-
-    @include mq(md) {
-      @include fs-3;
-    }
+    @include fs-4;
 
     .nav-list-link {
       display: block;
@@ -213,7 +209,7 @@
 
 .breadcrumb-nav-list-item {
   display: table-cell;
-  @include fs-2;
+  @include fs-3;
 
   &::before {
     display: none;
