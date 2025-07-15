@@ -6,7 +6,7 @@ description:
 permalink: /
 ---
 
-Most of these are my original arrangements for low G ukulele.
+These are my original arrangements for low G ukulele.
 
 <p class="space"></p>
 
@@ -14,23 +14,13 @@ Most of these are my original arrangements for low G ukulele.
 
 <a href="{{site.baseurl}}/tabs/Onara.pdf" target="_blank">오나라 (Onara)</a> from 대장금 (Dae Jang Geum) OST
 
-<a href="{{site.baseurl}}/tabs/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a>, a Chinese folk song
-
-<a href="{{site.baseurl}}/tabs/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a>, a Scottish folk song <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-
-<a href="{{site.baseurl}}/tabs/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> by Jake Shimabukuro <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-
 <a href="{{site.baseurl}}/tabs/Blumenkranz.pdf" target="_blank">Blumenkranz</a> from Kill La Kill OST
-
-<a href="{{site.baseurl}}/tabs/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> by J.S. Bach
 
 <a href="{{site.baseurl}}/tabs/Clean.pdf" target="_blank">Clean</a> by Taylor Swift
 
 <a href="{{site.baseurl}}/tabs/Hope_Has_Wings.pdf" target="_blank">Hope Has Wings</a> from Barbie and the Magic of Pegasus OST
 
 <a href="{{site.baseurl}}/tabs/Inferno.pdf" target="_blank">Inferno</a> from Promare OST
-
-<a href="{{site.baseurl}}/tabs/In_My_Life.pdf" target="_blank">In My Life</a> by The Beatles <a href="https://youtu.be/0kjNS91o1E4?feature=shared&t=1724" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
 <a href="{{site.baseurl}}/tabs/I_Could_Use_a_Boost.pdf" target="_blank">I Could Use a Boost</a> from The Wild Robot OST
 
@@ -44,11 +34,27 @@ Most of these are my original arrangements for low G ukulele.
 
 <a href="{{site.baseurl}}/tabs/Short_Hair.pdf" target="_blank">Short Hair</a> from Mulan OST
 
+<a href="{{site.baseurl}}/tabs/You_and_I.pdf" target="_blank">You and I</a> by Park Bom
+
+<p class="space"></p>
+
+These are other people's arrangements.
+
+<p class="space"></p>
+
+<a href="{{site.baseurl}}/tabs/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a>, a Chinese folk song
+
+<a href="{{site.baseurl}}/tabs/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a>, a Scottish folk song <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+
+<a href="{{site.baseurl}}/tabs/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> by Jake Shimabukuro <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+
+<a href="{{site.baseurl}}/tabs/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> by J.S. Bach
+
+<a href="{{site.baseurl}}/tabs/In_My_Life.pdf" target="_blank">In My Life</a> by The Beatles <a href="https://youtu.be/0kjNS91o1E4?feature=shared&t=1724" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+
 <a href="{{site.baseurl}}/tabs/Something.pdf" target="_blank">Something</a> by George Harrison <a href="https://www.youtube.com/watch?v=naJlZujI2Ps" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
 <a href="{{site.baseurl}}/tabs/Yellow_Bird.pdf" target="_blank">Yellow Bird</a> by Michel Mauléart Monton
-
-<a href="{{site.baseurl}}/tabs/You_and_I.pdf" target="_blank">You and I</a> by Park Bom
 
 <p class="space"></p>
 

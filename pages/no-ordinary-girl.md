@@ -5,7 +5,7 @@ nav_order:
 permalink: /videos/no-ordinary-girl
 ---
 
-<video controls width="100%">
+<video controls width="100%" poster="{{site.baseurl}}/images/No Ordinary Girl.png">
   <source src="{{site.baseurl}}/video/No Ordinary Girl.mov" type="video/mp4">
 </video>
 

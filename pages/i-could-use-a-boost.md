@@ -5,7 +5,7 @@ nav_order:
 permalink: /videos/i-could-use-a-boost
 ---
 
-<video controls width="100%">
+<video controls width="100%" poster="{{site.baseurl}}/images/I Could Use a Boost.png">
   <source src="{{site.baseurl}}/video/I Could Use a Boost.mov" type="video/mp4">
 </video>
 
