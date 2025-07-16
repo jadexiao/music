@@ -38,7 +38,7 @@ These are my original arrangements for low G ukulele.
 
 <p class="space"></p>
 
-These are other people's arrangements.
+These are my transcriptions of other people's arrangements.
 
 <p class="space"></p>
 
