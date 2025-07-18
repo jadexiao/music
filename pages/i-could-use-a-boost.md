@@ -3,6 +3,7 @@ title: I Could Use a Boost
 parent: Videos
 nav_order:
 permalink: /videos/i-could-use-a-boost
+published: false
 ---
 
 <video controls width="100%" poster="{{site.baseurl}}/images/I Could Use a Boost.png">

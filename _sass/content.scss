@@ -6,10 +6,10 @@
 .main-content {
   line-height: $content-line-height;
   margin: 0;
-  margin-bottom: -60px;
+  margin-bottom: -40px;
 
   @include mq(md) {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 
   ol,
