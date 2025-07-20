@@ -5,10 +5,11 @@
 
 .main-content {
   line-height: $content-line-height;
-  margin: 0;
+  margin-top: 1rem;
   margin-bottom: -40px;
 
   @include mq(md) {
+    margin-top: 0;
     margin-bottom: 8px;
   }
 

@@ -3,11 +3,10 @@ title: No Ordinary Girl
 parent: Videos
 nav_order:
 permalink: /videos/no-ordinary-girl
-published: false
 ---
 
-<video controls width="100%" poster="{{site.baseurl}}/images/No Ordinary Girl.png">
-  <source src="{{site.baseurl}}/video/No Ordinary Girl.mov" type="video/mp4">
+<video controls width="100%" poster="{{site.baseurl}}/images/thumbnails/No Ordinary Girl.png">
+  <source src="{{site.baseurl}}/videos/No Ordinary Girl.mov" type="video/mp4">
 </video>
 
 <p class="date">March 16, 2025</p>
