@@ -121,7 +121,11 @@ blockquote {
 .date {
   color: grey;
   @include fs-3;
-  margin-bottom: 0.1rem;
+}
+
+.tip-category {
+  font-size: 1.25rem;
+  font-weight: 450;
 }
 
 video {
@@ -135,10 +139,6 @@ p {
 
 .space {
   margin-bottom: $spacing-unit;
-}
-
-.space2 {
-  margin-bottom: $spacing-unit * 1.3;
 }
 
 #toc {
