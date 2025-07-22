@@ -22,12 +22,13 @@ table {
 
 th,
 td {
-  // min-width: 7.5rem;
+  min-width: 7.5rem;
   padding: 1px $sp-2;
   background-color: $table-background-color;
   border-bottom: $border rgba($border-color, 0.5);
   border-left: $border rgba($border-color, 0.5);
-  font-size: 15px;
+
+  @include fs-3;
 
   &:first-of-type, &:last-of-type {
     border-right: $border $border-color;

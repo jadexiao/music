@@ -9,7 +9,7 @@ These are my original arrangements for low G ukulele.
 
 | Song | Artist | Writer/Composer |
 | ---- | ------ | --------------- |
-| <a href="{{site.baseurl}}/tabs/Arirang.pdf" target="_blank">아리랑 (Arirang)</a> | Korean folk song | |
+| <a href="{{site.baseurl}}/tabs/Arirang.pdf" target="_blank">아리랑 (Arirang)</a> | | Korean folk song |
 | <a href="{{site.baseurl}}/tabs/Onara.pdf" target="_blank">오나라 (Onara)</a> | 대장금 (Dae Jang Geum) OST | 임세현 (Im Se-Hyeon) |
 | <a href="{{site.baseurl}}/tabs/Blumenkranz.pdf" target="_blank">Blumenkranz</a> | Kill La Kill OST | 澤野弘之 (Hiroyuki Sawano) |
 | <a href="{{site.baseurl}}/tabs/Clean.pdf" target="_blank">Clean</a> | Taylor Swift | Taylor Swift, Imogen Heap |
@@ -25,19 +25,19 @@ These are my original arrangements for low G ukulele.
 
 These are my transcriptions of other people's arrangements and compositions.
 
-| Song | Artist | Writer/Composer | Reference |
-| ---- | ------ | --------------- | --------- |
-| <a href="{{site.baseurl}}/tabs/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | Chinese folk song | | |
-| <a href="{{site.baseurl}}/tabs/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a> | Scottish folk song | | <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a> |
-| <a href="{{site.baseurl}}/tabs/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> | Jake Shimabukuro | Jake Shimabukuro | <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a> |
-| <a href="{{site.baseurl}}/tabs/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> | | J.S. Bach | |
-| <a href="{{site.baseurl}}/tabs/In_My_Life.pdf" target="_blank">In My Life</a> | The Beatles | Lennon-McCartney | <a href="https://youtu.be/0kjNS91o1E4?feature=shared&t=1724" target="_blank"><i class="fas fa-external-link-alt"></i></a> |
-| <a href="{{site.baseurl}}/tabs/Something.pdf" target="_blank">Something</a> | The Beatles | George Harrison | <a href="https://www.youtube.com/watch?v=naJlZujI2Ps" target="_blank"><i class="fas fa-external-link-alt"></i></a> |
-| <a href="{{site.baseurl}}/tabs/Yellow_Bird.pdf" target="_blank">Yellow Bird</a> | Haitian folk song | Michel Mauléart Monton |
+| Song | Artist | Writer/Composer |
+| ---- | ------ | --------------- |
+| <a href="{{site.baseurl}}/tabs/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | | Chinese folk song |
+| <a href="{{site.baseurl}}/tabs/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a> <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | | Scottish folk song |
+| <a href="{{site.baseurl}}/tabs/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Jake Shimabukuro | Jake Shimabukuro |
+| <a href="{{site.baseurl}}/tabs/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> | | J.S. Bach |
+| <a href="{{site.baseurl}}/tabs/In_My_Life.pdf" target="_blank">In My Life</a> <a href="https://youtu.be/0kjNS91o1E4?feature=shared&t=1724" target="_blank"><i class="fas fa-external-link-alt"></i></a> | The Beatles | Lennon-McCartney |
+| <a href="{{site.baseurl}}/tabs/Something.pdf" target="_blank">Something</a> <a href="https://www.youtube.com/watch?v=naJlZujI2Ps" target="_blank"><i class="fas fa-external-link-alt"></i></a> | The Beatles | George Harrison |
+| <a href="{{site.baseurl}}/tabs/Yellow_Bird.pdf" target="_blank">Yellow Bird</a> | | Michel Mauléart Monton |
 
 And some piano too (I'm a beginner).
 
-| Song | Artist | Writer/Composer | Reference |
-| ---- | ------ | --------------- | --------- |
-| <a href="{{site.baseurl}}/tabs/piano_If_You_Love_Me_For_Me.pdf" target="_blank">If You Love Me For Me</a> | Barbie as the Princess and the Pauper OST | Arnie Roth | <a href="https://www.youtube.com/watch?v=SMe10v_rRbo" target="_blank"><i class="fas fa-external-link-alt"></i></a> |
-| <a href="{{site.baseurl}}/tabs/piano_Inferno.pdf" target="_blank">Inferno</a> | Promare OST | 澤野弘之 (Hiroyuki Sawano) | <a href="https://youtu.be/-eRd8akV9Mk?feature=shared&t=107" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+| Song | Artist | Writer/Composer |
+| ---- | ------ | --------------- |
+| <a href="{{site.baseurl}}/tabs/piano_If_You_Love_Me_For_Me.pdf" target="_blank">If You Love Me For Me</a> <a href="https://www.youtube.com/watch?v=SMe10v_rRbo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Barbie as the Princess and the Pauper OST | Arnie Roth |
+| <a href="{{site.baseurl}}/tabs/piano_Inferno.pdf" target="_blank">Inferno</a> <a href="https://youtu.be/-eRd8akV9Mk?feature=shared&t=107" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Promare OST | 澤野弘之 (Hiroyuki Sawano)
