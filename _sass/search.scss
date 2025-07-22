@@ -177,7 +177,7 @@
 }
 
 .search-result-section {
-  margin-left: #{$sp-4+ $sp-2};
+  margin-left: #{$sp-4+ $sp-1};
   word-wrap: break-word;
 }
 
@@ -200,6 +200,7 @@
   word-wrap: break-word;
   // border-left: $border;
   // border-left-color: $border-color;
+  // line-height: 12px;
   @include fs-3;
 
   @include mq(sm) {

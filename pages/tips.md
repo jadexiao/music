@@ -4,7 +4,7 @@ nav_order: 2
 permalink: /tips
 ---
 
-This is a list of ukulele tips that have helped me play better. Some of these are conventional widsom; some are based on my own observations.
+This is a list of ukulele tips that have helped me play better. Some of these are conventional wisdom; some are based on my own observations.
 
 <hr>
 

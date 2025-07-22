@@ -27,8 +27,7 @@ td {
   background-color: $table-background-color;
   border-bottom: $border rgba($border-color, 0.5);
   border-left: $border rgba($border-color, 0.5);
-  
-  @include fs-4;
+  font-size: 15px;
 
   &:first-of-type, &:last-of-type {
     border-right: $border $border-color;
