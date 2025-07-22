@@ -78,7 +78,7 @@
 
 .main-header {
   z-index: 0;
-  border-bottom: $border $border-color;
+  // border-bottom: $border $border-color;
 
   @include mq(md) {
     display: flex;

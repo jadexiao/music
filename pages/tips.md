@@ -22,7 +22,7 @@ It can be hard to tell whether the ukulele is in tune from the sound of open str
 {: .tip }
 Hold the ukulele in a way where it won't fall down when you let go of the neck.
 
-You cannot play easily if you have to "catch" the uke every time there's a chord change. Typically, this means you should clamp down on the body with your right forearm; but if you're lazy, you can rest it against a raised left knee or just lay it across your lap like a guitar.
+You cannot play easily if you have to "catch" the uke every time there's a chord change. Typically, this means you should clamp down on the body with your right forearm; but if you're lazy, you can rest it against a raised left knee or lay it across your lap like a guitar.
 
 {: .tip }
 Don't tilt the ukulele or pull the neck back to get a view of the fretboard.
@@ -36,7 +36,7 @@ Tilting the uke puts additional stress on the fretting hand because the wrist ha
 {: .tip }
 You don't have to press hard.
 
-Experiment with the minimum amount of pressure you have to apply to get a clear sound. It shouldn't be very much. This means you can play longer without getting tired.
+Experiment with the minimum amount of pressure you have to apply to get a clear sound. It shouldn't be very much. This means you can play for longer without getting tired.
 
 {: .tip }
 Press directly behind the fret.
@@ -60,7 +60,7 @@ Everything I know about having good tone comes from classical guitar, from nail 
 {: .tip }
 Clean under fingernails.
 
-Make sure there is no debris under fingernails that can affect tone.
+Make sure there is no debris under fingernails that can make contact with the string.
 
 {: .tip }
 Keep the skin on your fingertips hydrated.
@@ -72,14 +72,19 @@ Moist skin grips the string better than dry skin and produces a meatier sound.
 <p class="tip-category">5.&nbsp;&nbsp;Practice</p>
 
 {: .tip }
-Practice with a metronome.
+Understand the difference between reactive and preventative practice.
 
-It's not fun but developing a reliable and accurate internal clock is a must. You don't _have_ to listen to clicks. I prefer the voice mode or a drum track.
+<a href="https://www.youtube.com/watch?v=WWb6RHPlhcY" target="_blank">This video</a> explains the difference. Basically, muscle memory is the _proportion_ of times you can play something correctly. Succeeding 20 times and failing 5 times is better than succeeding 50 times and failing 50 times. The more you fail, the more you train yourself to play incorrectly. Once you internalize this, you will begin to practice more mindfully knowing that every attempt counts.
 
 {: .tip }
 Practice while watching something.
 
-I've found that playing absentmindedly while watching TV or a YouTube video is super effective for drilling a technique. You can get reps in without the pressure of playing perfectly. In general, practice is easier when you're relaxed.
+Once you've gotten used to the mechanics of a technique, practicing it in the background while watching TV or a YouTube video is an efficient way of getting reps in.
+
+{: .tip }
+Practice with a metronome.
+
+It's not fun but developing a reliable and accurate internal clock is a must. You don't _have_ to listen to clicks. I prefer the voice mode or a drum track.
 
 <hr>
 

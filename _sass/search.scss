@@ -57,7 +57,7 @@
   @include fs-4;
 
   @include mq(md) {
-    padding-left: #{$gutter-spacing-sm + $sp-5};
+    padding-left: #{$gutter-spacing-sm + $sp-7};
     background-color: $body-background-color;
     transition: padding-left linear #{$transition-duration * 0.5};
   }
@@ -78,6 +78,7 @@
   padding-left: $sp-3;
 
   @include mq(md) {
+    padding-left: 29px;
     transition: padding-left linear #{$transition-duration * 0.5};
   }
 
