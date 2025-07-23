@@ -1,6 +1,6 @@
 ---
 title: No Ordinary Girl
-parent: Videos
+parent: Ukulele videos
 nav_order:
 permalink: /videos/no-ordinary-girl
 ---

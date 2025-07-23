@@ -1,7 +1,7 @@
 ---
-title: Tips
+title: Ukulele tips
 nav_order: 2
-permalink: /tips
+permalink: /ukulele-tips
 ---
 
 This is a list of ukulele tips that have helped me play better. Some of these are conventional wisdom; some are based on my own observations.
@@ -50,7 +50,7 @@ Keep the thumb "light" and ready to move along the fretboard, instead of stickin
 
 <hr>
 
-<p class="tip-category">4.&nbsp;&nbsp;Fingerpicking</p>
+<p class="tip-category">4.&nbsp;&nbsp;Fingerstyle</p>
 
 {: .tip }
 Learn from classical guitar.
@@ -91,7 +91,7 @@ It's not fun but developing a reliable and accurate internal clock is a must. Yo
 <p class="tip-category">6.&nbsp;&nbsp;Motivation</p>
 
 {: .tip }
-Follow the <a href="https://www.youtube.com/@HawaiiMusicSupplyTUS" target="_blank">HawaiiMusicSupply</a> podcast.
+Follow <a href="https://www.youtube.com/@HawaiiMusicSupplyTUS" target="_blank">The Ukulele Review Podcast</a>.
 
 I get so much joy and inspiration from watching Corey, Kalei, and assorted guests. They are the best ukulele ambassadors ever.
 
