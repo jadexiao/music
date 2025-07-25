@@ -16,3 +16,12 @@ permalink: /ukulele-videos/clean
 Performed by Taylor Swift
 
 Written by Taylor Swift and Imogen Heap
+
+<br>
+
+<p class="lyrics">
+Rain came pouring down when I was drowning<br>
+That's when I could finally breathe<br>
+And by morning, gone was any trace of you<br>
+I think I am finally clean
+</p>

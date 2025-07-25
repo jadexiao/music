@@ -123,6 +123,11 @@ blockquote {
   @include fs-3;
 }
 
+.lyrics {
+  color: grey;
+  font-style: italic;
+}
+
 .tip-category {
   font-size: 1.25rem;
   font-weight: 450;
@@ -137,11 +142,8 @@ p {
   margin: 0;
 }
 
-.space {
-  margin-bottom: $spacing-unit;
-}
-
 #toc {
   font-size: 0.9rem !important;
   margin-top: 3px;
+  margin-bottom: $spacing-unit;
 }

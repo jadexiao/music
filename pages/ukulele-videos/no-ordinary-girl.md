@@ -16,3 +16,17 @@ permalink: /ukulele-videos/no-ordinary-girl
 From H2O: Just Add Water OST
 
 Written by Shelley Rosenberg
+
+<br>
+
+<p class="lyrics">
+'Cause I'm no ordinary girl<br>
+I'm from the deep blue underworld<br>
+Land or sea<br>
+I've got the power if I just believe<br>
+'Cause I'm no ordinary girl<br>
+I'm from the deep blue underworld<br>
+Land or sea<br>
+The world's my oyster, I'm the pearl<br>
+No ordinary girl
+</p>
