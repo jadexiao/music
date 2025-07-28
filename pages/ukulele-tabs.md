@@ -9,13 +9,13 @@ Some of these are my original arrangements for low G ukulele; some are transcrip
 
 | Song | Artist | Writer/Composer |
 | ---- | ------ | --------------- |
-| <a href="{{site.baseurl}}/pdf/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | | Chinese folk song |
-| <a href="{{site.baseurl}}/pdf/Arirang.pdf" target="_blank">아리랑 (Arirang) [easy]</a> | | Korean folk song |
-| <a href="{{site.baseurl}}/pdf/Arirang2.pdf" target="_blank">아리랑 (Arirang) [hard]</a> <a href="https://www.youtube.com/watch?v=1Z9cIUl7qA8" target="_blank"><i class="fas fa-external-link-alt"></i></a> <a href="https://www.youtube.com/watch?v=vlDxkXOkaPo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | | Korean folk song |
+| <a href="{{site.baseurl}}/pdf/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | Traditional | Unknown |
+| <a href="{{site.baseurl}}/pdf/Arirang.pdf" target="_blank">아리랑 (Arirang) [easy]</a> | Traditional | Unknown |
+| <a href="{{site.baseurl}}/pdf/Arirang2.pdf" target="_blank">아리랑 (Arirang) [hard]</a> <a href="https://www.youtube.com/watch?v=1Z9cIUl7qA8" target="_blank"><i class="fas fa-external-link-alt"></i></a> <a href="https://www.youtube.com/watch?v=vlDxkXOkaPo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
 | <a href="{{site.baseurl}}/pdf/Onara.pdf" target="_blank">오나라 (Onara)</a> | 대장금 (Dae Jang Geum) OST | 임세현 (Im Se-Hyeon) |
-| <a href="{{site.baseurl}}/pdf/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a> <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | | Scottish folk song |
+| <a href="{{site.baseurl}}/pdf/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a> <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
 | <a href="{{site.baseurl}}/pdf/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Jake Shimabukuro | Jake Shimabukuro |
-| <a href="{{site.baseurl}}/pdf/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> | | J.S. Bach |
+| <a href="{{site.baseurl}}/pdf/Cello_Suite_No_1_Prelude.pdf" target="_blank">Cello Suite No. 1 Prélude</a> | Classical | J.S. Bach |
 | <a href="{{site.baseurl}}/pdf/Blumenkranz.pdf" target="_blank">Blumenkranz</a> | キルラキル (Kill La Kill) OST | 澤野弘之 (Hiroyuki Sawano) |
 | <a href="{{site.baseurl}}/pdf/Clean.pdf" target="_blank">Clean</a> | Taylor Swift | Taylor Swift, Imogen Heap |
 | <a href="{{site.baseurl}}/pdf/Hope_Has_Wings.pdf" target="_blank">Hope Has Wings</a> | Barbie and the Magic of Pegasus OST | Assorted writers |
@@ -28,5 +28,5 @@ Some of these are my original arrangements for low G ukulele; some are transcrip
 | <a href="{{site.baseurl}}/pdf/Right_Here_In_My_Arms.pdf" target="_blank">Right Here In My Arms</a> | Barbie as the Island Princess OST | Megan Cavallari |
 | <a href="{{site.baseurl}}/pdf/Short_Hair.pdf" target="_blank">Short Hair</a> | Mulan OST | Jerry Goldsmith |
 | <a href="{{site.baseurl}}/pdf/Something.pdf" target="_blank">Something</a> <a href="https://www.youtube.com/watch?v=naJlZujI2Ps" target="_blank"><i class="fas fa-external-link-alt"></i></a> | The Beatles | George Harrison |
-| <a href="{{site.baseurl}}/pdf/Yellow_Bird.pdf" target="_blank">Yellow Bird</a> | | Michel Mauléart Monton |
+| <a href="{{site.baseurl}}/pdf/Yellow_Bird.pdf" target="_blank">Yellow Bird</a> | Norman Luboff Choir | Michel Mauléart Monton |
 | <a href="{{site.baseurl}}/pdf/You_and_I.pdf" target="_blank">You and I</a> | 박봄 (Park Bom) | Teddy Park |

@@ -3,6 +3,7 @@ title: Clean
 parent: Ukulele videos
 nav_order:
 permalink: /ukulele-videos/clean
+nav_exclude: true
 ---
 
 <video controls width="100%" poster="{{site.baseurl}}/videos/thumbnails/Clean.png">

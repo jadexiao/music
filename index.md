@@ -5,4 +5,12 @@ nav_order: 1
 permalink: /
 ---
 
-This is a website for all my ukulele stuff.
+<p style="text-align:center">
+    This is a website for all my ukulele stuff.
+</p>
+
+<br>
+
+<p style="text-align:center">
+    <img src="{{site.baseurl}}/images/ukulele_snow_circle.png" width="40%">
+</p>

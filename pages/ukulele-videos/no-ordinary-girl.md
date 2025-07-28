@@ -3,6 +3,7 @@ title: No Ordinary Girl
 parent: Ukulele videos
 nav_order:
 permalink: /ukulele-videos/no-ordinary-girl
+nav_exclude: true
 ---
 
 <video controls width="100%" poster="{{site.baseurl}}/videos/thumbnails/No Ordinary Girl.png">
