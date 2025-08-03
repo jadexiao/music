@@ -6,7 +6,7 @@ permalink: /ukulele-videos/clean
 nav_exclude: true
 ---
 
-<video controls width="100%">
+<video controls width="100%" poster="{{site.baseurl}}/videos/thumbnails/Clean.png">
   <source src="{{site.baseurl}}/videos/Clean.mov" type="video/mp4">
 </video>
 
