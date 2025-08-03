@@ -6,7 +6,7 @@ permalink: /ukulele-videos/no-ordinary-girl
 nav_exclude: true
 ---
 
-<video controls width="100%" poster="{{site.baseurl}}/videos/thumbnails/No Ordinary Girl.png">
+<video controls width="100%">
   <source src="{{site.baseurl}}/videos/No Ordinary Girl.mov" type="video/mp4">
 </video>
 
