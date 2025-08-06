@@ -126,6 +126,8 @@ blockquote {
 .lyrics {
   color: grey;
   font-style: italic;
+  padding-left: 1rem;
+  border-left: 3px solid $border-color;
 }
 
 .tip-category {
