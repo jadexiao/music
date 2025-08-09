@@ -10,8 +10,9 @@ Some of these are my original arrangements for low G ukulele; some are transcrip
 | Song | Artist | Writer/Composer |
 | ---- | ------ | --------------- |
 | <a href="{{site.baseurl}}/pdf/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | Traditional | Unknown |
-| <a href="{{site.baseurl}}/pdf/Arirang.pdf" target="_blank">아리랑 (Arirang) [easy]</a> | Traditional | Unknown |
-| <a href="{{site.baseurl}}/pdf/Arirang2.pdf" target="_blank">아리랑 (Arirang) [hard]</a> <a href="https://www.youtube.com/watch?v=1Z9cIUl7qA8" target="_blank"><i class="fas fa-external-link-alt"></i></a> <a href="https://www.youtube.com/watch?v=vlDxkXOkaPo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
+| <a href="{{site.baseurl}}/pdf/Arirang.pdf" target="_blank">아리랑 (Arirang)</a> | Traditional | Unknown |
+| <a href="{{site.baseurl}}/pdf/Arirang2.pdf" target="_blank">아리랑 (Arirang) [Teresa Byun]</a> <a href="https://www.youtube.com/watch?v=1Z9cIUl7qA8" target="_blank"><i class="fas fa-external-link-alt"></i></a> <a href="https://www.youtube.com/watch?v=vlDxkXOkaPo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
+| <a href="{{site.baseurl}}/pdf/Arirang3.pdf" target="_blank">아리랑 (Arirang) [Mike Lynch]</a> <a href="https://www.youtube.com/watch?v=al62GnbZuhc" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
 | <a href="{{site.baseurl}}/pdf/Onara.pdf" target="_blank">오나라 (Onara)</a> | 대장금 (Dae Jang Geum) OST | 임세현 (Im Se-Hyeon) |
 | <a href="{{site.baseurl}}/pdf/Auld_Lang_Syne.pdf" target="_blank">Auld Lang Syne</a> <a href="https://www.instagram.com/p/Cty2Ps2rEMO/" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Traditional | Unknown |
 | <a href="{{site.baseurl}}/pdf/Blue_Roses_Falling.pdf" target="_blank">Blue Roses Falling</a> <a href="https://www.youtube.com/watch?v=fzvFqVZvDV8" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Jake Shimabukuro | Jake Shimabukuro |
