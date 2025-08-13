@@ -62,7 +62,7 @@
     }
 
     .nav-list-expander {
-      display: none;
+      // display: none;
       position: absolute;
       @if $nav-list-expander-right {
         right: 0;

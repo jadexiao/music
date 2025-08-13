@@ -3,14 +3,14 @@
 
 .table-wrapper {
   display: block;
-  width: 100.7%;
-  max-width: 100.7%;
+  width: 100.65%;
+  max-width: 100.65%;
   overflow-x: auto;
   // border-radius: $border-radius;
   // box-shadow:
   //   0 1px 2px rgba(0, 0, 0, 0.12),
   //   0 3px 10px rgba(0, 0, 0, 0.08);
-  margin-left: -2px;
+  margin-left: -2.5px;
 }
 
 table {
@@ -21,13 +21,13 @@ table {
 
 th,
 td {
-  min-width: 7.5rem;
+  // min-width: 7.5rem;
   padding: 1px $sp-2;
   background-color: $table-background-color;
   border-bottom: $border rgba($border-color, 0.5);
   // border-left: $border rgba($border-color, 0.5);
 
-  @include fs-3;
+  // @include fs-3;
 
   // &:last-of-type {
   //   border-right: $border $border-color;
