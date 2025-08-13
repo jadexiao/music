@@ -5,8 +5,6 @@ nav_order: 3
 permalink: /tabs
 ---
 
-Some of these are my original arrangements for low G ukulele; some are transcriptions of other people's arrangements and compositions.
-
 | Song | Artist |
 | ---- | ------ |
 | <a href="{{site.baseurl}}/pdf/Jasmine_Flower.pdf" target="_blank">茉莉花 (Jasmine Flower)</a> | Traditional |

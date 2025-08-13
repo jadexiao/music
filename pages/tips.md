@@ -4,11 +4,7 @@ nav_order: 2
 permalink: /tips
 ---
 
-This is a list of ukulele tips that have helped me play better. Some of these are conventional wisdom; some are based on my own observations.
-
-<hr>
-
-<p class="tip-category">1.&nbsp;&nbsp;Tuning</p>
+<p class="tip-category">Tuning</p>
 
 {: .tip }
 Check intonation at the 12<sup>th</sup> fret.
@@ -17,7 +13,7 @@ It can be hard to tell whether the ukulele is in tune from the sound of open str
 
 <hr>
 
-<p class="tip-category">2.&nbsp;&nbsp;Holding the ukulele</p>
+<p class="tip-category">Holding the ukulele</p>
 
 {: .tip }
 Hold the ukulele in a way where it won't fall down when you let go of the neck.
@@ -31,7 +27,7 @@ Tilting the uke puts additional stress on the fretting hand because the wrist ha
 
 <hr>
 
-<p class="tip-category">3.&nbsp;&nbsp;Fretting</p>
+<p class="tip-category">Fretting</p>
 
 {: .tip }
 You don't have to press hard.
@@ -50,7 +46,7 @@ Keep the thumb "light" and ready to move along the fretboard, instead of stickin
 
 <hr>
 
-<p class="tip-category">4.&nbsp;&nbsp;Fingerstyle</p>
+<p class="tip-category">Fingerstyle</p>
 
 {: .tip }
 Learn from classical guitar.
@@ -69,7 +65,7 @@ Moist skin grips the string better than dry skin and produces a meatier sound.
 
 <hr>
 
-<p class="tip-category">5.&nbsp;&nbsp;Practice</p>
+<p class="tip-category">Practice</p>
 
 {: .tip }
 Understand the difference between reactive and preventative practice.
@@ -88,7 +84,7 @@ It's not fun but developing a reliable and accurate internal clock is a must. Yo
 
 <hr>
 
-<p class="tip-category">6.&nbsp;&nbsp;Motivation</p>
+<p class="tip-category">Motivation</p>
 
 {: .tip }
 Follow <a href="https://www.youtube.com/@HawaiiMusicSupplyTUS" target="_blank">The Ukulele Review Podcast</a>.

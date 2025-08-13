@@ -5,8 +5,6 @@ nav_order: 5
 permalink: /piano
 ---
 
-I'm a beginner at piano and reading sheet music lol.
-
 | Song | Artist |
 | ---- | ------ |
 | <a href="{{site.baseurl}}/pdf/piano_If_You_Love_Me_For_Me.pdf" target="_blank">If You Love Me For Me</a> <a href="https://www.youtube.com/watch?v=SMe10v_rRbo" target="_blank"><i class="fas fa-external-link-alt"></i></a> | Barbie as the Princess and the Pauper OST |
