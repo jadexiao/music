@@ -27,7 +27,7 @@ td {
   border-bottom: $border rgba($border-color, 0.5);
   // border-left: $border rgba($border-color, 0.5);
 
-  // @include fs-3;
+  @include fs-3;
 
   // &:last-of-type {
   //   border-right: $border $border-color;
